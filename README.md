@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FarheenShaikh
-- 👀 I’m interested in Data Science field.
+- 👀 I’m interested in building GEN AI Applications.
 - 🌱 I’m currently learning lots of things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farheen.shaikh07@gmail.com
