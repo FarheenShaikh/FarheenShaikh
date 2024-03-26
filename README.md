@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning lots of things
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me farheen.shaikh07@gmail.com
+- Find my resume here https://flowcv.com/resume/wsg1i9t5rj
 
 <!---
 FarheenShaikh/FarheenShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
